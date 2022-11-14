@@ -12,4 +12,4 @@ I am committed thus I never leave an issue unresolved.
 I am communicative and taking the initiative thus I am an active member of the team.
 I am professional thus I am constantly improving my tech skills.
 
-Do you feel like I would benefit your team? Please, contact me via LinkedIn or via e-mail.
+Do you feel like I would benefit your team? Please, contact me via [LinkedIn](https://www.linkedin.com/in/paulinaszatalowicz/) or via e-mail.
