@@ -11,7 +11,9 @@ I am interested in improving my testing skills as well as being a product owner 
 I am committed thus I never leave an issue unresolved.
 I am communicative and taking the initiative thus I am an active member of the team.
 I am professional thus I am constantly improving my tech skills.
-Moreover I am very proud and happy of the progress I have made during my 6-months experience as a Software tester.
+Moreover I am very proud and happy of the progress I have made during my 9-months experience as a Software tester.
+
+At the moment I am upgrading my testing skills such as: writing test cases and scenarios from business documentation in both: Microsoft (Word,Excel) and dedicated to testing (Qase) software under the supervision of my senior collegue. At the same time I am a mentoree of senior automatic tester Bartosz Kita, whose backend testing course I am attending (Postman with tests in JavaScript, Java, Selenium and tools like Cmdr, Git, JSON-server along the way).
 
 ### [Click here to display my portfolio](https://github.com/paulinaszatalowicz/tester_portfolio)
 
